@@ -1,0 +1,1 @@
+export let myobj={width:'200px',height:'200px',backgroundColor:'blue'}
